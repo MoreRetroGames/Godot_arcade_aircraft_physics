@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/mountains-3.obj-3f790c6160fb0fec0d590e9abbbdef66.mesh"
+
+[deps]
+
+files=[ "res://.import/mountains-3.obj-3f790c6160fb0fec0d590e9abbbdef66.mesh" ]
+
+source_file="res://Objects/Mountains/mountains-3.obj"
+dest_files=[ "res://.import/mountains-3.obj-3f790c6160fb0fec0d590e9abbbdef66.mesh", "res://.import/mountains-3.obj-3f790c6160fb0fec0d590e9abbbdef66.mesh" ]
+
+[params]
+
+generate_tangents=false
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=false

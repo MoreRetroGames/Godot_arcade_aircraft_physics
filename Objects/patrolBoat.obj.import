@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/patrolBoat.obj-106dbd539ce49fc518408789ce41b39b.mesh"
+
+[deps]
+
+files=[ "res://.import/patrolBoat.obj-106dbd539ce49fc518408789ce41b39b.mesh" ]
+
+source_file="res://Objects/patrolBoat.obj"
+dest_files=[ "res://.import/patrolBoat.obj-106dbd539ce49fc518408789ce41b39b.mesh", "res://.import/patrolBoat.obj-106dbd539ce49fc518408789ce41b39b.mesh" ]
+
+[params]
+
+generate_tangents=false
+scale_mesh=Vector3( 5, 5, 5 )
+optimize_mesh=false

@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/aircraf_00.obj-6a506e1cf9b65853d79fc4ae961dbc21.mesh"
+
+[deps]
+
+files=[ "res://.import/aircraf_00.obj-6a506e1cf9b65853d79fc4ae961dbc21.mesh" ]
+
+source_file="res://Objects/aircraf_00.obj"
+dest_files=[ "res://.import/aircraf_00.obj-6a506e1cf9b65853d79fc4ae961dbc21.mesh", "res://.import/aircraf_00.obj-6a506e1cf9b65853d79fc4ae961dbc21.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true

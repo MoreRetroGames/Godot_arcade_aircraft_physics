@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/shoot.obj-a3733034d74289ca674ec0042f5fb529.mesh"
+
+[deps]
+
+files=[ "res://.import/shoot.obj-a3733034d74289ca674ec0042f5fb529.mesh" ]
+
+source_file="res://Objects/shoot.obj"
+dest_files=[ "res://.import/shoot.obj-a3733034d74289ca674ec0042f5fb529.mesh", "res://.import/shoot.obj-a3733034d74289ca674ec0042f5fb529.mesh" ]
+
+[params]
+
+generate_tangents=false
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=false
